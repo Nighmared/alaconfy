@@ -3,10 +3,10 @@
 Generate a complete default Alacritty TOML configuration by parsing the
 Alacritty configuration and default-bindings manpages.
 
-```text
-aconfgen --platform linux
-aconfgen --platform macos --output alacritty.toml
-aconfgen parse > alacritty-ir.json
+```bash
+alaconfy --platform linux
+alaconfy --platform macos --output alacritty.toml
+alaconfy parse > alacritty-ir.json
 ```
 
 
