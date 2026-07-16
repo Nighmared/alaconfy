@@ -4,8 +4,8 @@ from pathlib import Path
 
 import pytest
 
-from aconfgen.model import Document
-from aconfgen.parser import parse_document
+from alaconfy.model import Document
+from alaconfy.parser import parse_document
 
 ROOT = Path(__file__).parents[1]
 MAIN_MANPAGE = ROOT / "alacritty.5.scd.txt"

@@ -5,7 +5,7 @@ import json
 from click.testing import CliRunner
 from conftest import BINDINGS_MANPAGE, MAIN_MANPAGE
 
-from aconfgen.cli import main
+from alaconfy.cli import main
 
 
 def test_default_command_generates_toml() -> None:

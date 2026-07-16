@@ -2,8 +2,8 @@
 
 import tomllib
 
-from aconfgen.model import Document, Platform, resolve_default
-from aconfgen.render import render
+from alaconfy.model import Document, Platform, resolve_default
+from alaconfy.render import render
 
 
 def _table(document: Document, name: str):

@@ -5,9 +5,9 @@ import json
 import pytest
 from conftest import BINDINGS_MANPAGE, MAIN_MANPAGE
 
-from aconfgen.errors import ParseError
-from aconfgen.model import Document, resolve_default
-from aconfgen.parser import parse_bindings
+from alaconfy.errors import ParseError
+from alaconfy.model import Document, resolve_default
+from alaconfy.parser import parse_bindings
 
 
 def _table(document: Document, name: str):
