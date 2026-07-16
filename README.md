@@ -1,4 +1,4 @@
-# aconfgen
+# alaconfy
 
 Generate a complete default Alacritty TOML configuration by parsing the
 Alacritty configuration and default-bindings manpages.
