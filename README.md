@@ -10,11 +10,13 @@ aconfgen parse > alacritty-ir.json
 ```
 
 
-the required manpages are available from:
+
+## the required manpages are available from:
 
 base manpage: https://raw.githubusercontent.com/alacritty/alacritty/refs/heads/master/extra/man/alacritty.5.scd
+
 bindings: https://raw.githubusercontent.com/alacritty/alacritty/refs/heads/master/extra/man/alacritty-bindings.5.scd
 
-## Disclaimer
+## Disclaimer
 
-I usually take pride in writing good code. However since I did not feel that this was worth my time and effort this project was implemented entirely by AI using a Skill distilled from another project to simulate my own coding style and some basic guidance about how the parser should be built
+I usually take pride in writing good code. However since I did not feel that this was worth my time and effort, this project was implemented entirely by AI. Using a Skill distilled from another project to simulate my own coding style and some basic guidance about how the parser should be built.
