@@ -20,3 +20,7 @@ bindings: https://raw.githubusercontent.com/alacritty/alacritty/refs/heads/maste
 ## Disclaimer
 
 I usually take pride in writing good code. However since I did not feel that this was worth my time and effort, this project was implemented entirely by AI. Using a Skill distilled from another project to simulate my own coding style and some basic guidance about how the parser should be built.
+
+## Why is this even needed?
+
+See [this pr](https://github.com/alacritty/alacritty/issues/6999) for weirdly intense opinions about manpages and config files.
